@@ -1,0 +1,24 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #90c9d1;
+}
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(0, 23%, 94%);
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    /* border: 2px solid #fff; */
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(45, 39, 49);
+    box-shadow: 25px 25px 25px rgba(0,0,0,0.25),
+    10px 10px 70px rgba(0,0,0,0.25),
+    5px 5px 10px rgba(0,0,0,0.5),
+    5px 5px 20px rgba(255,255,255,0.2),
+    -5px -5px 15px rgba(0,0,0,0.75);
+}
